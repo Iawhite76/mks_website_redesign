@@ -1,0 +1,19 @@
+#header_logo {
+  width: 130px;
+  margin-top: -5px;
+}
+
+
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+}
+
+.bg {
+  background: url("../img/black-guitar.jpg");
+  height: 1000px;
+}
+
